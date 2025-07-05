@@ -61,3 +61,7 @@ The ability to predict churn for new customers right after they join.
 
 Transparent results with interpretable SHAP values, which help businesses target retention strategies more effectively.
 
+
+
+Deployed Link : https://churn-modelling-pnrbcnvksl3ltcdtmz7eks.streamlit.app/ 
+
